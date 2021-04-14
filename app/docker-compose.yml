@@ -1,0 +1,9 @@
+version: '2.1'
+
+services:
+  socks-proxy-tunnel:
+    build: .
+    network_mode: host
+    restart: always
+    labels:
+      io.balena.features.supervisor-api: '1'
