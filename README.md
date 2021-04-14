@@ -76,6 +76,7 @@ The general approach uses in this example is as follows:
 
 
 ## cloud proxy server
+> deploy a proxy server into a desired cloud provider
 
 ### DigitalOcean
 > deploy a [DigitalOcean](https://cloud.digitalocean.com/account/api/tokens) cloud proxy server using [Terraform](https://www.terraform.io/downloads.html)
