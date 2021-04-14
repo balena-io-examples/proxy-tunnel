@@ -6,9 +6,9 @@
 * [overview](#overview)
 * [generate keys](#generate-keys)
 * [cloud proxy server](#cloud-proxy-server)
-* [balenaCloud application][#balenacloud-application]
-* [test and verify][#test-and-verify]
-* [troubleshooting][#troubleshooting]
+* [balenaCloud application](#balenacloud-application)
+* [test and verify](#test-and-verify)
+* [troubleshooting](#troubleshooting)
 
 
 ## overview
@@ -194,13 +194,13 @@ The general approach uses in this example is as follows:
 * test proxy connectivity bypassing redsocks redirector on the balenaOS device
 
 ```
-    curl -x socks5://127.0.0.1:1080 https://ipinfo.io/
+curl -x socks5://127.0.0.1:1080 https://ipinfo.io/
 ```
 
 * to temporarily restore access in the event of proxy connectivity issues, on the hostOS run the following
 
 ```
-	iptables -t nat -F OUTPUT
-	iptables -t nat -F PREROUTING
-	iptables -t nat -F REDSOCKS
+iptables -t nat -F OUTPUT
+iptables -t nat -F PREROUTING
+iptables -t nat -F REDSOCKS
 ```
