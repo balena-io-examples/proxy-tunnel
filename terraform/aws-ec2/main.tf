@@ -36,6 +36,7 @@ resource "aws_key_pair" "balena" {
 
 module "security_group" {
   source  = "terraform-aws-modules/security-group/aws"
+  version = "3.18.0"
 
   name        = "balena"
   description = "allow inbound SSH and ICMP and all out"
@@ -48,6 +49,7 @@ module "security_group" {
 
 module "ec2_instance" {
   source = "terraform-aws-modules/ec2-instance/aws"
+  version = "2.17.0"
   instance_count = 1
 
   name                        = "openssh-server"
