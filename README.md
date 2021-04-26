@@ -99,11 +99,14 @@ The general approach uses in this example is as follows:
 
     popd
 
-
 #### (finally) clean up resources
 > optionally destroy DigitalOcean Droplet after finishing with the PoC
 
+    pushd terraform/digitalocean
+
     terraform destroy -var "do_token=${DO_TOKEN}"
+
+    popd
 
 
 ### AWS/EC2
@@ -112,7 +115,7 @@ The general approach uses in this example is as follows:
 #### create proxy server
 > ensure your AWS credentials are configured correctly
 
-    pushd terraform/aws
+    pushd terraform/aws-ec2
 
     terraform init
 
@@ -130,7 +133,11 @@ The general approach uses in this example is as follows:
 #### (finally) clean up resources
 > optionally destroy AWS/EC2 resources after finishing with the PoC
 
+    pushd terraform/aws-ec2
+
     terraform destroy -var "key_pair=${ssh_public_key}"
+
+    popd
 
 
 ## balenaCloud application
