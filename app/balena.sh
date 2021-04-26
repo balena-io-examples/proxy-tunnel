@@ -47,6 +47,11 @@ if [ "${proxy_ipv4}" != '' ]; then
     cat < "${config}" | jq && curl -X PATCH "${BALENA_SUPERVISOR_ADDRESS}/v1/device/host-config?apikey=${BALENA_SUPERVISOR_API_KEY}" \
       --header 'Content-Type:application/json' \
       --data "$(cat "${config}")"
+else
+	# disable redsocks redirector
+    curl -X PATCH "${BALENA_SUPERVISOR_ADDRESS}/v1/device/host-config?apikey=${BALENA_SUPERVISOR_API_KEY}" \
+      --header 'Content-Type:application/json' \
+      --data '{}'
 fi
 
 # open SSH tunnel to a SOCKS proxy if all the conditions are met
