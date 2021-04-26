@@ -168,7 +168,7 @@ The general approach uses in this example is as follows:
 
     balena env add PROXY_IP "${proxy_ip}" --application ${app_slug}
 
-    balena deploy ${app_slug} --build --source .
+    balena push ${app_slug}
     
     popd
 
