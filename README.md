@@ -1,4 +1,4 @@
-# balenaOS SOCKS proxy tunnel
+# balenaOS device proxy tunnel
 > [redirect](https://www.balena.io/docs/reference/OS/network/2.x/#connecting-behind-a-proxy) all TCP traffic (except VPN) from balenaOS devices via a SOCKS5 proxy SSH tunnel running on DigitalOcean or AWS/EC2
 
 
@@ -16,7 +16,7 @@ The examples give below demonstrate how to forward/redirect all balenaOS traffic
 user provided proxy. In the specific instance, we use a SOCKS5 proxy, which we tunnel to 
 over SSH on DigitalOcean and AWS/EC2 using public key authentication.
 
-Configuration of the hostOS is done within a ~ 10MB container on the host network. This 
+Configuration of the hostOS is done within a ~10MB container on the host network. This 
 container interacts with the [Supervisor API](https://www.balena.io/docs/reference/supervisor/supervisor-api/) 
 to configure the redsocks redirector. As well as configuring the redirector, the 
 container optionally establishes a tunnel to a remote server via SSH, if a private key is 
