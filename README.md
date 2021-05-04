@@ -146,8 +146,6 @@ The general approach uses in this example is as follows:
 ### build and deploy the app
 > once the app is created and the release is deployed, [provision](https://www.balena.io/docs/learn/getting-started/raspberrypi3/nodejs/#add-your-first-device) at least one balenaOS device into it
 
-    pushd app
-
     balena login
 
     arch=armv7l
@@ -169,8 +167,6 @@ The general approach uses in this example is as follows:
     balena env add PROXY_IP "${proxy_ip}" --application ${app_slug}
 
     balena push ${app_slug}
-    
-    popd
 
 
 ## test and verify

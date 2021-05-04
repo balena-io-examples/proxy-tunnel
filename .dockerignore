@@ -1,0 +1,10 @@
+.git/**
+terraform.tfstate**
+**/.terraform
+**/.terraform.lock.hcl
+keys/**
+.resinci.yml
+repo.yml
+README.md
+balena.yml
+terraform/**

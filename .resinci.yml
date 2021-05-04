@@ -1,0 +1,23 @@
+---
+docker:
+  builds:
+    - path: app
+      dockerfile: Dockerfile.amd64
+      docker_repo: balena/proxy-tunnel:amd64
+      publish: false
+    - path: app
+      dockerfile: Dockerfile.aarch64
+      docker_repo: balena/proxy-tunnel:aarch64
+      publish: false
+    - path: app
+      dockerfile: Dockerfile.armv7hf
+      docker_repo: balena/proxy-tunnel:armv7hf
+      publish: false
+    - path: app
+      dockerfile: Dockerfile.armv6
+      docker_repo: balena/proxy-tunnel:armv6
+      publish: false
+    - path: app
+      dockerfile: Dockerfile.armv5e
+      docker_repo: balena/proxy-tunnel:armv5e
+      publish: false
