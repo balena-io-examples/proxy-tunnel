@@ -1,7 +1,6 @@
 name: proxy-tunnel
 type: sw.application
-description: >-
-  Redirect device traffic via a proxy
+description: Redirect device traffic via a proxy
 assets:
   repository:
     type: blob.asset
@@ -26,4 +25,4 @@ data:
     - raspberrypi4-64
     - fincm3
     - intel-nuc
-version: 0.0.1
+version: 0.0.2
