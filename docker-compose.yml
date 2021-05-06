@@ -1,8 +1,14 @@
 version: '2.1'
 
 services:
-  socks-proxy-tunnel:
-    build: .
+  proxy-tunnel:
+    build:
+      context: .
+      args:
+        # https://github.com/docker-library/official-images#architectures-other-than-amd64
+        # https://www.balena.io/docs/reference/base-images/devicetypes/
+        # arm32v6=rpi arm32v7=armv7hf arm64v8=aarch64 amd64
+        - ALPINE_ARCH=arm32v7
     network_mode: host
     restart: always
     labels:
