@@ -148,6 +148,7 @@ The general approach uses in this example is as follows:
 
     balena login
 
+    # to build to other architectures, also change ALPINE_ARCH in docker-compose.yml
     arch=armv7l
 
     device_type=fincm3
@@ -208,3 +209,6 @@ iptables -t nat -F OUTPUT
 iptables -t nat -F PREROUTING
 iptables -t nat -F REDSOCKS
 ```
+
+---
+Icon made by [Freepik](https://www.freepik.com "Freepik") from [www.flaticon.com](https://www.flaticon.com/ "Flaticon").

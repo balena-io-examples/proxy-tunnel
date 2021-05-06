@@ -1,4 +1,6 @@
-FROM arm32v7/alpine:3
+ARG ALPINE_ARCH=arm32v7
+
+FROM ${ALPINE_ARCH}/alpine:3
 
 WORKDIR /usr/local/bin
 
