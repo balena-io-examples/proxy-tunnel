@@ -1,5 +1,9 @@
 # balenaOS device proxy tunnel
 > [redirect](https://www.balena.io/docs/reference/OS/network/2.x/#connecting-behind-a-proxy) all TCP traffic (except for VPN) from balenaOS devices via an SSH tunnel to a SOCKS5 proxy, running on DigitalOcean or AWS/EC2
+> 
+
+[![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/balenalabs/proxy-tunnel)
+
 
 ## ToC
 * [overview](#overview)
