@@ -4,6 +4,4 @@ terraform.tfstate**
 **/.terraform.lock.hcl
 keys/**
 repo.yml
-README.md
-balena.yml
 terraform/**
