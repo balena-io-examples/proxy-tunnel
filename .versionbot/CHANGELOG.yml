@@ -1,0 +1,500 @@
+- commits:
+    - subject: Switch from balenaCI to flowzone
+      hash: dd94c7ef1b32408ca9a2df60537d9b00aaf2ebd4
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 0.8.1
+  title: ""
+  date: 2022-10-10T18:16:28.115Z
+- version: 0.8.0
+  date: 2022-10-10T17:25:39Z
+  commits:
+    - hash: b1140dff29012145185b11db92f3c02595482c16
+      author: Renovate Bot
+      footers:
+        change-type: minor
+      subject: Update Terraform digitalocean to 2.23.0
+      body: |-
+        Update digitalocean to 2.23.0
+        Update digitalocean from 2.22.3 to 2.23.0
+- version: 0.7.3
+- date: 2022-09-26T15:03:09Z
+- commits:
+    - hash: 3b7a019e10e6cc5ab318bcf5f6b28170530bff3f
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform terraform-aws-modules/security-group/aws to 4.13.1
+- commits:
+    - body: |-
+        Update terraform-aws-modules/security-group/aws to 4.13.1
+        Update terraform-aws-modules/security-group/aws from 4.13.0 to 4.13.1
+- version: 0.7.2
+- date: 2022-09-14T04:53:22Z
+- commits:
+    - hash: a4102e75b1e9cab8390de674e939dc3331636845
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform digitalocean to 2.22.3
+- commits:
+    - body: |-
+        Update digitalocean to 2.22.3
+        Update digitalocean from 2.22.2 to 2.22.3
+- version: 0.7.1
+- date: 2022-08-31T22:57:35Z
+- commits:
+    - hash: eb6efce167490fa378002f77030bfe1332be892d
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform digitalocean to 2.22.2
+- commits:
+    - body: |-
+        Update digitalocean to 2.22.2
+        Update digitalocean from 2.22.1 to 2.22.2
+- version: 0.7.0
+- date: 2022-08-23T13:03:44Z
+- commits:
+    - hash: 181e50a1acb916a435d767eef16f76d6ed6673f7
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Update Terraform terraform-aws-modules/security-group/aws to 4.13.0
+- commits:
+    - body: |-
+        Update terraform-aws-modules/security-group/aws to 4.13.0
+        Update terraform-aws-modules/security-group/aws from 4.12.0 to 4.13.0
+- version: 0.6.0
+- date: 2022-08-22T11:41:45Z
+- commits:
+    - hash: bb329ed7e7110a03b47fa2aa3de335b06d01e59c
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Update Terraform terraform-aws-modules/security-group/aws to 4.12.0
+- commits:
+    - body: |-
+        Update terraform-aws-modules/security-group/aws to 4.12.0
+        Update terraform-aws-modules/security-group/aws from 4.11.0 to 4.12.0
+- version: 0.5.0
+- date: 2022-08-18T14:45:34Z
+- commits:
+    - hash: 36d2060d1ce64a4992836fc4c228f1f57c628643
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Update Terraform terraform-aws-modules/security-group/aws to 4.11.0
+- commits:
+    - body: |-
+        Update terraform-aws-modules/security-group/aws to 4.11.0
+        Update terraform-aws-modules/security-group/aws from 4.10.0 to 4.11.0
+- version: 0.4.0
+- date: 2022-08-16T18:33:36Z
+- commits:
+    - hash: dc3d33d8025893890ddb6ff9999e5b5fcc77da72
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Update Terraform digitalocean to 2.22.1
+- commits:
+    - body: |-
+        Update digitalocean to 2.22.1
+        Update digitalocean from 2.21.0 to 2.22.1
+- version: 0.3.0
+- date: 2022-08-16T10:31:44Z
+- commits:
+    - hash: 522087047bd5b847daa109f51cfd240a7f8a6463
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Update Terraform terraform-aws-modules/security-group/aws to 4.10.0
+- commits:
+    - body: |-
+        Update terraform-aws-modules/security-group/aws to 4.10.0
+        Update terraform-aws-modules/security-group/aws from 4.9.0 to 4.10.0
+- version: 0.2.4
+- date: 2022-08-13T11:40:33Z
+- commits:
+    - hash: 3313d10fcdffc66f4db64150420f5dd96a167486
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform terraform-aws-modules/ec2-instance/aws to 4.1.4
+- commits:
+    - body: |-
+        Update terraform-aws-modules/ec2-instance/aws to 4.1.4
+        Update terraform-aws-modules/ec2-instance/aws from 4.1.3 to 4.1.4
+- version: 0.2.3
+- date: 2022-08-12T11:42:27Z
+- commits:
+    - hash: 54510dae61238bb95c32d157efd6610210dffa9f
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform terraform-aws-modules/ec2-instance/aws to 4.1.3
+- commits:
+    - body: |-
+        Update terraform-aws-modules/ec2-instance/aws to 4.1.3
+        Update terraform-aws-modules/ec2-instance/aws from 4.1.2 to 4.1.3
+- version: 0.2.2
+- date: 2022-08-10T11:43:59Z
+- commits:
+    - hash: e6bba9882d69b570d8543e251c5e1f185ebab0ce
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform terraform-aws-modules/ec2-instance/aws to 4.1.2
+- commits:
+    - body: |-
+        Update terraform-aws-modules/ec2-instance/aws to 4.1.2
+        Update terraform-aws-modules/ec2-instance/aws from 4.1.1 to 4.1.2
+- version: 0.2.1
+- date: 2022-07-21T16:13:57Z
+- commits:
+    - hash: ca483b26a67735adbc80616975130ad936ecc2b2
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform terraform-aws-modules/ec2-instance/aws to 4.1.1
+- commits:
+    - body: |-
+        Update terraform-aws-modules/ec2-instance/aws to 4.1.1
+        Update terraform-aws-modules/ec2-instance/aws from 4.1.0 to 4.1.1
+- version: 0.2.0
+- date: 2022-07-19T12:14:16Z
+- commits:
+    - hash: b10365e90287229151e5e45ddd7365aeab8134ce
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Update Terraform terraform-aws-modules/ec2-instance/aws to 4.1.0
+- commits:
+    - body: |-
+        Update terraform-aws-modules/ec2-instance/aws to 4.1.0
+        Update terraform-aws-modules/ec2-instance/aws from 4.0.0 to 4.1.0
+- version: 0.1.0
+- date: 2022-07-05T23:42:47Z
+- commits:
+    - hash: d33d7e8cdd25df55bc15f418d5fbe6d577a22442
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: minor
+- commits:
+    - subject: Update Terraform digitalocean from 2.20.0 to 2.21.0
+- commits:
+    - ? body
+- version: 0.0.14
+- date: 2022-06-14T01:43:36Z
+- commits:
+    - hash: fc7d832a8d2b8ec577c9ed0f1e9177af70bb08fc
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform digitalocean from 1.23.0 to 2.20.0
+- commits:
+    - ? body
+- commits:
+    - hash: d00467a0fd362fb29890dc9d8eb9d5651b74a1a3
+- commits:
+    - author: Anton Belodedenko
+- commits:
+    - subject: Merge branch 'master' into renovate/digitalocean-2.x
+- commits:
+    - ? body
+- commits:
+    - hash: b684e7233308364f109a14b13101437aaceff36b
+- commits:
+    - author: Anton Belodedenko
+- commits:
+    - subject: Merge branch 'master' into renovate/digitalocean-2.x
+- commits:
+    - ? body
+- commits:
+    - hash: 2e9448bc788acfab4bc131bc829a615ad51498b3
+- commits:
+    - author: Anton Belodedenko
+- commits:
+    - subject: Merge branch 'master' into renovate/digitalocean-2.x
+- commits:
+    - ? body
+- commits:
+    - hash: 670d67c36d99bf7b436c72e6833e4eb09dc8c9f9
+- commits:
+    - author: Anton Belodedenko
+- commits:
+    - subject: Merge branch 'master' into renovate/digitalocean-2.x
+- commits:
+    - ? body
+- commits:
+    - hash: 95b6aaf933a4df0c054943d08bc541da3af06dce
+- commits:
+    - author: Anton Belodedenko
+- commits:
+    - subject: Merge branch 'master' into renovate/digitalocean-2.x
+- commits:
+    - ? body
+- version: 0.0.13
+- date: 2022-06-14T00:08:51Z
+- commits:
+    - hash: 83ac6760ceddea4f4884634091983b4ed0f05e34
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform terraform-aws-modules/ec2-instance/aws from 2.21.0 to
+        4.0.0
+- commits:
+    - ? body
+- version: 0.0.12
+- date: 2022-06-13T22:39:31Z
+- commits:
+    - hash: 7371588b64bf4114b931da6cbc9e13b960131473
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform terraform-aws-modules/security-group/aws from 3.18.0
+        to 4.9.0
+- commits:
+    - ? body
+- commits:
+    - hash: 021930d4ad094e54ec71501f1f75d956316a48de
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform aws from 3.75.2 to 4.18.0
+- commits:
+    - ? body
+- commits:
+    - hash: 61581b1a4c492ea7f06d21fdaa9ad1d17ba2c0ed
+- commits:
+    - author: Anton Belodedenko
+- commits:
+    - subject: Merge branch 'master' into renovate/aws-4.x
+- commits:
+    - ? body
+- commits:
+    - hash: 620a8f7171ca2d61ff97781a8db101ed9a47e5a9
+- commits:
+    - author: Anton Belodedenko
+- commits:
+    - subject: Merge branch 'master' into renovate/aws-4.x
+- commits:
+    - ? body
+- version: 0.0.11
+- date: 2022-06-13T20:33:52Z
+- commits:
+    - hash: e5c78cd9dc517ad244dfd3d46a27dc0110a64839
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform hashicorp/terraform from 0.13.7 to 1.2.2
+- commits:
+    - ? body
+- version: 0.0.10
+- date: 2022-06-13T19:37:30Z
+- commits:
+    - hash: 106dfcc61bd5df1b87b8f3fde91e78f4e7c58bd4
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform terraform-aws-modules/ec2-instance/aws from 2.17.0 to
+        2.21.0
+- commits:
+    - ? body
+- commits:
+    - hash: 0062b8f75113033a40ec572dfc4ae169761f5bdf
+- commits:
+    - author: Renovate Bot
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update Terraform digitalocean from 1.22.2 to 1.23.0
+- commits:
+    - ? body
+- version: 0.0.9
+- date: 2021-05-13T23:32:55Z
+- commits:
+    - hash: b9c51631b5e5db1f23efb4e737f9952206a6814b
+- commits:
+    - author: Marc Pous
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: DWB button added on the README
+- commits:
+    - body: Just added the Deploy with balena button on the README so developers
+        redirected here can deploy it from here :)
+- version: 0.0.8
+- date: 2021-05-06T19:14:04Z
+- commits:
+    - hash: 95ace9efe792b4882042803eca87314e123e2707
+- commits:
+    - author: ab77
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Reword contract and readme
+- commits:
+    - ? body
+- commits:
+    - hash: 61a082e7379c573a532ca6c123e99c483e8c444b
+- commits:
+    - author: Anton Belodedenko
+- commits:
+    - subject: Merge branch 'master' into ab77/reword-readme-contract
+- commits:
+    - ? body
+- version: 0.0.7
+- date: 2021-05-06T18:26:46Z
+- commits:
+    - hash: 79655937aae5cc14c4161372d3d49465398a1c74
+- commits:
+    - author: ab77
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Include balena contract in release
+- commits:
+    - ? body
+- version: 0.0.6
+- date: 2021-05-06T17:31:40Z
+- commits:
+    - hash: 3ca829e9a1d2b1f50c56e4230be1c599f30e0f5e
+- commits:
+    - author: ab77
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Delete superfluous template
+- commits:
+    - ? body
+- version: 0.0.5
+- date: 2021-05-06T17:22:07Z
+- commits:
+    - hash: e8d4a6bf38f9c0438d9b635214ea03ec12eb0aa6
+- commits:
+    - author: ab77
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Rename Dockerfile
+- commits:
+    - body: "* no balena tempate features are currently used/required"
+- commits:
+    - hash: 677e87935c7ba834bfc9152ac318ca2688c88571
+- commits:
+    - author: Anton Belodedenko
+- commits:
+    - subject: Merge branch 'master' into ab77/rename-template
+- commits:
+    - ? body
+- version: 0.0.4
+- date: 2021-05-06T17:15:25Z
+- commits:
+    - hash: e3b82458240a4e1a7950a75a8402ddba08519c0f
+- commits:
+    - author: ab77
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Test balenaCI pipeline
+- commits:
+    - body: |-
+        * add logo icon
+        * add icon author attribution
+        * add ALPINE_ARCH build arg
+- version: 0.0.3
+- date: 2021-05-05T14:47:41Z
+- commits:
+    - hash: e20fdfd025f9f75cb7acce045b34c0dceaf3dd41
+- commits:
+    - author: ab77
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Change to balena repo type
+- commits:
+    - ? body
+- version: 0.0.2
+- date: 2021-05-05T14:14:42Z
+- commits:
+    - hash: e3f7a0a17f27efde3b826309ad2431f3f70a29b9
+- commits:
+    - author: ab77
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: Update documentation
+- commits:
+    - body: "* add license"
