@@ -1,4 +1,18 @@
 - commits:
+    - subject: Updating repo reference from balenalabs to balena-labs-projects
+      hash: 29e0bb12161332baebf023a186f3e8f739eb0c39
+      body: ""
+      footer:
+        Signed-off-by: Flynn Joffray <flynn@balena.io>
+        signed-off-by: Flynn Joffray <flynn@balena.io>
+        Change-type: patch
+        change-type: patch
+      author: Flynn Joffray
+      nested: []
+  version: 0.8.2
+  title: ""
+  date: 2022-10-24T22:27:29.170Z
+- commits:
     - subject: Switch from balenaCI to flowzone
       hash: dd94c7ef1b32408ca9a2df60537d9b00aaf2ebd4
       body: ""
@@ -227,7 +241,7 @@
 - commits:
     - subject: Update Terraform digitalocean from 2.20.0 to 2.21.0
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.14
 - date: 2022-06-14T01:43:36Z
 - commits:
@@ -240,7 +254,7 @@
 - commits:
     - subject: Update Terraform digitalocean from 1.23.0 to 2.20.0
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: d00467a0fd362fb29890dc9d8eb9d5651b74a1a3
 - commits:
@@ -248,7 +262,7 @@
 - commits:
     - subject: Merge branch 'master' into renovate/digitalocean-2.x
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: b684e7233308364f109a14b13101437aaceff36b
 - commits:
@@ -256,7 +270,7 @@
 - commits:
     - subject: Merge branch 'master' into renovate/digitalocean-2.x
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 2e9448bc788acfab4bc131bc829a615ad51498b3
 - commits:
@@ -264,7 +278,7 @@
 - commits:
     - subject: Merge branch 'master' into renovate/digitalocean-2.x
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 670d67c36d99bf7b436c72e6833e4eb09dc8c9f9
 - commits:
@@ -272,7 +286,7 @@
 - commits:
     - subject: Merge branch 'master' into renovate/digitalocean-2.x
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 95b6aaf933a4df0c054943d08bc541da3af06dce
 - commits:
@@ -280,7 +294,7 @@
 - commits:
     - subject: Merge branch 'master' into renovate/digitalocean-2.x
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.13
 - date: 2022-06-14T00:08:51Z
 - commits:
@@ -294,7 +308,7 @@
     - subject: Update Terraform terraform-aws-modules/ec2-instance/aws from 2.21.0 to
         4.0.0
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.12
 - date: 2022-06-13T22:39:31Z
 - commits:
@@ -308,7 +322,7 @@
     - subject: Update Terraform terraform-aws-modules/security-group/aws from 3.18.0
         to 4.9.0
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 021930d4ad094e54ec71501f1f75d956316a48de
 - commits:
@@ -319,7 +333,7 @@
 - commits:
     - subject: Update Terraform aws from 3.75.2 to 4.18.0
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 61581b1a4c492ea7f06d21fdaa9ad1d17ba2c0ed
 - commits:
@@ -327,7 +341,7 @@
 - commits:
     - subject: Merge branch 'master' into renovate/aws-4.x
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 620a8f7171ca2d61ff97781a8db101ed9a47e5a9
 - commits:
@@ -335,7 +349,7 @@
 - commits:
     - subject: Merge branch 'master' into renovate/aws-4.x
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.11
 - date: 2022-06-13T20:33:52Z
 - commits:
@@ -348,7 +362,7 @@
 - commits:
     - subject: Update Terraform hashicorp/terraform from 0.13.7 to 1.2.2
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.10
 - date: 2022-06-13T19:37:30Z
 - commits:
@@ -362,7 +376,7 @@
     - subject: Update Terraform terraform-aws-modules/ec2-instance/aws from 2.17.0 to
         2.21.0
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 0062b8f75113033a40ec572dfc4ae169761f5bdf
 - commits:
@@ -373,7 +387,7 @@
 - commits:
     - subject: Update Terraform digitalocean from 1.22.2 to 1.23.0
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.9
 - date: 2021-05-13T23:32:55Z
 - commits:
@@ -400,7 +414,7 @@
 - commits:
     - subject: Reword contract and readme
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 61a082e7379c573a532ca6c123e99c483e8c444b
 - commits:
@@ -408,7 +422,7 @@
 - commits:
     - subject: Merge branch 'master' into ab77/reword-readme-contract
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.7
 - date: 2021-05-06T18:26:46Z
 - commits:
@@ -421,7 +435,7 @@
 - commits:
     - subject: Include balena contract in release
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.6
 - date: 2021-05-06T17:31:40Z
 - commits:
@@ -434,7 +448,7 @@
 - commits:
     - subject: Delete superfluous template
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.5
 - date: 2021-05-06T17:22:07Z
 - commits:
@@ -455,7 +469,7 @@
 - commits:
     - subject: Merge branch 'master' into ab77/rename-template
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.4
 - date: 2021-05-06T17:15:25Z
 - commits:
@@ -484,7 +498,7 @@
 - commits:
     - subject: Change to balena repo type
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.2
 - date: 2021-05-05T14:14:42Z
 - commits:
