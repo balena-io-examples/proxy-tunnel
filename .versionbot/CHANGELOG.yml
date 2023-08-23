@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update Terraform terraform-aws-modules/security-group/aws to v4.17.2
+      hash: bb51188370b3609cf92fb35eb31d086231b3e33c
+      body: |
+        Update terraform-aws-modules/security-group/aws from 4.13.1 to 4.17.2
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.9.2
+  title: ""
+  date: 2023-08-23T19:46:37.749Z
+- commits:
     - subject: Update Terraform digitalocean to v2.29.0
       hash: dcdbbd65c4dd7652ad8140f2857f40a44e283a82
       body: |
