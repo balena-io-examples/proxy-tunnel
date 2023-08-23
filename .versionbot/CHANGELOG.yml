@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update Terraform terraform-aws-modules/ec2-instance/aws to v4.5.0
+      hash: a9a15b74552c9c5d1e7009b89afb4475835148ba
+      body: |
+        Update terraform-aws-modules/ec2-instance/aws from 4.1.4 to 4.5.0
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.9.0
+  title: ""
+  date: 2023-08-23T15:46:54.012Z
+- commits:
     - subject: Updating repo reference from balenalabs to balena-labs-projects
       hash: 29e0bb12161332baebf023a186f3e8f739eb0c39
       body: ""
