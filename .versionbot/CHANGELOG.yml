@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update Terraform digitalocean to v2.29.0
+      hash: dcdbbd65c4dd7652ad8140f2857f40a44e283a82
+      body: |
+        Update digitalocean from 2.23.0 to 2.29.0
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.9.1
+  title: ""
+  date: 2023-08-23T17:46:41.472Z
+- commits:
     - subject: Update Terraform terraform-aws-modules/ec2-instance/aws to v4.5.0
       hash: a9a15b74552c9c5d1e7009b89afb4475835148ba
       body: |
