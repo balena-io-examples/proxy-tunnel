@@ -1,7 +1,7 @@
 name: proxy-tunnel
 type: sw.application
 description: >-
-  Redirect all TCP traffic (except for VPN) from balenaOS devices via an SSH
+  Redirect all TCP traffic from balenaOS devices via an SSH
   tunnel to a SOCKS5 proxy, running on DigitalOcean or AWS/EC2.
 assets:
   repository:
