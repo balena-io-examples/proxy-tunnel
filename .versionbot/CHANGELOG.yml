@@ -1,4 +1,20 @@
 - commits:
+    - subject: Remove note for excluding VPN traffic
+      hash: 13fe6fec509ae3f977186c3526737c36d97d2638
+      body: |
+        The OpenVPN traffic of balenaOS uses TCP on port 443 and redsocks
+        redirects that through the proxy as well.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Zahari Petkov <zahari@balena.io>
+        signed-off-by: Zahari Petkov <zahari@balena.io>
+      author: Zahari Petkov
+      nested: []
+  version: 0.9.3
+  title: ""
+  date: 2023-09-27T21:02:55.764Z
+- commits:
     - subject: Update Terraform terraform-aws-modules/security-group/aws to v4.17.2
       hash: bb51188370b3609cf92fb35eb31d086231b3e33c
       body: |
