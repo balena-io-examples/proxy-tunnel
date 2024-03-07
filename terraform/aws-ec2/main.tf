@@ -49,7 +49,7 @@ module "security_group" {
 
 module "ec2_instance" {
   source = "terraform-aws-modules/ec2-instance/aws"
-  version = "4.5.0"
+  version = "5.6.1"
   instance_count = 1
 
   name                        = "openssh-server"
